@@ -1,5 +1,3 @@
-# src/data_generators/config.py
-
 """Configuration parameters for data generators."""
 
 import os
